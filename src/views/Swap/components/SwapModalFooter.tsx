@@ -102,10 +102,10 @@ export default function SwapModalFooter({
             <QuestionHelper
               text={
                 <>
-                  <Text mb="12px">For each trade a 0.25% fee is paid</Text>
-                  <Text>- 0.17% to LP token holders</Text>
-                  <Text>- 0.03% to the Treasury</Text>
-                  <Text>- 0.05% towards CAKE buyback and burn</Text>
+                  <Text mb="12px">For each trade a 0.22% fee is paid</Text>
+                  <Text>- 0.15% to LP token holders</Text>
+                  <Text>- 0.05% to the Treasury</Text>
+                  <Text>- 0.02% towards CAKE buyback and burn</Text>
                 </>
               }
               ml="4px"
