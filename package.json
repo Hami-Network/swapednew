@@ -34,7 +34,7 @@
   "dependencies": {
     "@binance-chain/bsc-connector": "^1.0.0",
     "@ethersproject/experimental": "^5.0.1",
-    "@pancakeswap/sdk": "^2.3.2",
+    "@pancakeswap/sdk": "krypto-dev/lokiswap-sdk",
     "@pancakeswap/uikit": "krypto-dev/Lokiswap-uikit",
     "@progress/kendo-drawing": "^1.15.0",
     "@progress/kendo-licensing": "^1.2.1",
