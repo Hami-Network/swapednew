@@ -40,11 +40,7 @@ export default function CurrencyLogo({
   }
 
   if (currency?.symbol === 'LOKI') {
-    return <StyledLogo srcs={['/images/tokens/0x5417f8559ee78f0E77589109d605246c89Dd01c9.png']} size={size} style={style} alt="Token Logo" />
-  }
-
-  if (currency?.symbol === 'SCAN') {
-    return <StyledLogo srcs={['/images/tokens/0xCCcE542413528CB57B5761e061F4683A1247aDCB.png']} size={size} style={style} alt="Token Logo" />
+    return <StyledLogo srcs={['/images/tokens/0xb03B19aB28EC881A236448240F31570b1Ff8894a.png']} size={size} style={style} alt="Token Logo" />
   }
 
   return <StyledLogo size={size} srcs={srcs} alt={`${currency?.symbol ?? 'token'} logo`} style={style} />

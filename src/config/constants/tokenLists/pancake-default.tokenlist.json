@@ -23,7 +23,7 @@
       "symbol": "LOKI",
       "address": "0xb03B19aB28EC881A236448240F31570b1Ff8894a",
       "chainId": 56,
-      "decimals": 9,
+      "decimals": 18,
       "logoURI": "https://lokiswap.com/images/tokens/0xb03B19aB28EC881A236448240F31570b1Ff8894a.png"
     },
     {
