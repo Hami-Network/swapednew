@@ -95,7 +95,9 @@
     "tsparticles": "^1.34.0",
     "typescript": "^4.3.2",
     "universal-cookie": "^4.0.4",
-    "use-query-params": "^1.2.3"
+    "use-query-params": "^1.2.3",
+    "web3": "^1.7.3",
+    "web3-eth-contract": "^1.7.3"
   },
   "devDependencies": {
     "@commitlint/cli": "^12.1.1",

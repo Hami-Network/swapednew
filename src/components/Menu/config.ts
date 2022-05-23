@@ -21,94 +21,94 @@ const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
       },
     ],
   },
-  {
-    label: t('Farms'),
-    icon: 'FarmIcon',
-    href: '/farms',
-  },
-  {
-    label: t('Staking'),
-    icon: 'PoolIcon',
-    href: '/pools',
-  },
+  // {
+  //   label: t('Farms'),
+  //   icon: 'FarmIcon',
+  //   href: '/farms',
+  // },
+  // {
+  //   label: t('Staking'),
+  //   icon: 'PoolIcon',
+  //   href: '/pools',
+  // },
   // {
   //   label: t('Referral'),
   //   icon: 'GroupsIcon',
   //   href: '/referral',
   // },
-  {
-    label: 'Games',
-    icon: 'PredictionsIcon',
-    href: '/games',
-  },
-  {
-    label: 'NFT',
-    icon: 'NftIcon',
-    href: '/nft',
-  },
-  {
-    label: 'Join',
-    icon: 'IfoIcon',
+  // {
+  //   label: 'Games',
+  //   icon: 'PredictionsIcon',
+  //   href: '/games',
+  // },
+  // {
+  //   label: 'NFT',
+  //   icon: 'NftIcon',
+  //   href: '/nft',
+  // },
+ {
+    label: 'Social Media',
+    icon: 'GroupsIcon',
     items: [
       {
         label: 'Telegram',
-        href: 'https://t.me/lokiswap',
+        href: 'https://t.me/haminetwork1',
       },
-      {
-        label: 'Youtube',
-        href: 'https://www.youtube.com/channel/',
-      },
-      {
-        label: 'Reddit',
-        href: 'https://www.reddit.com/r/lokiswap/',
-      },
-      {
-        label: 'Instagram',
-        href: 'https://www.instagram.com/lokiswap/',
-      },
-      {
-        label: 'Tiktok',
-        href: 'https://www.tiktok.com/@lokiswap?lang=en',
-      },
+      // {
+      //   label: 'Youtube',
+      //   href: 'https://www.youtube.com/channel/',
+      // },
+      // {
+      //   label: 'Reddit',
+      //   href: 'https://www.reddit.com/r/lokiswap/',
+      // },
+      // {
+      //   label: 'Instagram',
+      //   href: 'https://www.instagram.com/lokiswap/',
+      // },
+      // {
+      //   label: 'Tiktok',
+      //   href: 'https://www.tiktok.com/@lokiswap?lang=en',
+      // },
       {
         label: 'Facebook',
-        href: 'https://www.facebook.com/',
+        href: 'https://www.facebook.com/haminetwork',
       },
-      {
-        label: 'Discord',
-        href: 'https://discord.gg/',
-      },
+      // {
+      //   label: 'Discord',
+      //   href: 'https://discord.gg/',
+      // },
       {
         label: 'Twitter',
-        href: 'https://twitter.com/lokiswap',
+        href: 'https://twitter.com/haminetwork',
       },
     ],
   },
-  {
-    label: 'Charts',
-    icon: 'InfoIcon',
-    items: [
-      {
-        label: 'Dextools',
-        href: 'https://www.dextools.io/app/bsc/pair-explorer/0x4054cD657986251693e18261b2a2b99914e2b257',
-      },
-      {
-        label: 'Poocoin',
-        href: 'https://poocoin.app/tokens/0xb03B19aB28EC881A236448240F31570b1Ff8894a',
-      },
-    ],
-  },
-  {
+  // {
+  //   label: 'Charts',
+  //   icon: 'InfoIcon',
+  //   items: [
+  //     {
+  //       label: 'Dextools',
+  //       href: 'https://www.dextools.io/app/bsc/pair-explorer/0x4054cD657986251693e18261b2a2b99914e2b257',
+  //     },
+  //     {
+  //       label: 'Poocoin',
+  //       href: 'https://poocoin.app/tokens/0xb03B19aB28EC881A236448240F31570b1Ff8894a',
+  //     },
+  //   ],
+  // },
+ {
     label: 'More',
     icon: 'MoreIcon',
     items: [
       {
         label: 'GitHub',
-        href: 'https://github.com/lokiswap',
+        href: 'https://github.com/hami-network',
       },
       {
         label: 'Doc',
-        href: 'https://docs.lokiswap',
+        href: 'https://docs.hami.network/',
       },
       // {
       //   label: 'Doc(ES)',

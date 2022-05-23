@@ -72,13 +72,12 @@ const App: React.FC = () => {
       <Menu>
         <SuspenseWithChunkError fallback={<PageLoader />}>
           <Switch>
-            <Route path="/" exact>
-              <Home />
-            </Route>
+            <Route path="/" component={Swap} exact / >
+           
             {/* <Route exact path="/farms/auction">
               <FarmAuction />
             </Route> */}
-            <Route path="/farms">
+            {/* <Route path="/farms">
               <Farms />
             </Route>
             <Route path="/pools">
@@ -92,7 +91,7 @@ const App: React.FC = () => {
             </Route>
             <Route path="/referral">
               <Referral />
-            </Route>
+            </Route> */}
             {/* <Route path="/teams/:id">
               <Team />
             </Route>
