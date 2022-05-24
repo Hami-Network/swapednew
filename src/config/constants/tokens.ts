@@ -20,10 +20,10 @@ export const CAKE: { [chainId: number]: Token } = {
 export const LOKI: { [chainId: number]: Token } = {
   [ChainId.MAINNET]: new Token(
     ChainId.MAINNET,
-    '0xb03B19aB28EC881A236448240F31570b1Ff8894a',
+    '0xC19C2db89e5A8c49570fE52B988376C8057993d8',
     18,
-    'LOKI',
-    'Loki Token',
+    'HAMI',
+    'HAMI Token',
   ),
   [ChainId.TESTNET]: new Token(
     ChainId.TESTNET,
@@ -92,13 +92,13 @@ const tokens = {
     projectLink: 'https://pancakeswap.finance/'
   },
   loki: {
-    symbol: 'LOKI',
+    symbol: 'HAMI',
     address: {
       56: '0xC19C2db89e5A8c49570fE52B988376C8057993d8',
       97: '',
     },
     decimals: 18,
-    projectLink: 'https://lokiswap.com/'
+    projectLink: 'https://hami.network/'
   },
   scan: {
     symbol: 'SCAN',
