@@ -94,7 +94,7 @@ const tokens = {
   loki: {
     symbol: 'LOKI',
     address: {
-      56: '0xb03B19aB28EC881A236448240F31570b1Ff8894a',
+      56: '0xC19C2db89e5A8c49570fE52B988376C8057993d8',
       97: '',
     },
     decimals: 18,
