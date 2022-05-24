@@ -24,7 +24,7 @@
       "address": "0xC19C2db89e5A8c49570fE52B988376C8057993d8",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "http://localhost:3001/images/tokens/0xC19C2db89e5A8c49570fE52B988376C8057993d8.png"
+      "logoURI": "http://swap.hami.live/images/tokens/0xC19C2db89e5A8c49570fE52B988376C8057993d8.png"
     },
     {
       "name": "BUSD Token",
